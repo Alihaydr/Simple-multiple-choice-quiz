@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="resources">
+      <UniqueIdentifier>{d79272b0-33c6-4569-9662-554876b3b068}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Documents\airplane project\fighvteen.png">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\four.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\fourteen.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\nine.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\one.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\seven.png">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\six1.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\ten.png">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\therteen.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\three.png">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\twelve.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\two.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\eight.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\eleven.jpg">
+      <Filter>resources</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Documents\airplane project\figh.jpg">
+      <Filter>resources</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

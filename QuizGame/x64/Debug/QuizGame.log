@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\QuizGame\QuizGame\MyForm.h(372,18): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+C:\Users\user\source\repos\QuizGame\QuizGame\MyForm.h(372,18): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  QuizGame.vcxproj -> C:\Users\user\source\repos\QuizGame\x64\Debug\QuizGame.exe

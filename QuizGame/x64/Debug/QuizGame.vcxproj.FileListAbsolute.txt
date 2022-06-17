@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\QuizGame\QuizGame\x64\Debug\QuizGame.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\QuizGame\QuizGame\x64\Debug\QuizGame.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\QuizGame\QuizGame\x64\Debug\QuizGame.MyForm.resources
+C:\Users\user\source\repos\QuizGame\QuizGame\x64\Debug\QuizGame.vcxproj.GenerateResource.cache
